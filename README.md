@@ -1,1 +1,1 @@
-# Lua Tests Repostiry
+# Lua Tests Repository 
